@@ -1,3 +1,9 @@
+
+**IMPORTANT**
+With the release of Elm 0.17, this guide is now obsolete.
+Read http://elm-lang.org/blog/farewell-to-frp
+
+
 Understanding Elm Signals and Signal.foldp
 ==========================================
 
